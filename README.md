@@ -8,6 +8,7 @@ There are also four worksheets in the `notebooks` and `answers` folders which ar
 * [Part 2: Intro to Pandas and the Series Object](https://www.loom.com/share/6afd0a6c426f4fe4b8011522e9e2a353)
 * [Part 3: Exploring One Dimensional Data](https://www.loom.com/share/266fc000abd548198d2c31d403329052)
 * [Part 4: Working with DataFrames](https://www.loom.com/share/21f0b71f0f404bd59c0a40486ab100fb)
+* [Part 5: Manipulating DataFrames](https://www.loom.com/share/19492add75c749bdb8ff87220a35fa42)
 
 ## Setting up Your Environment
 For these exercises, all you will need is a working installation of Jupyter Notebook and a few python modules.  We recommmend using Anaconda which is available here: https://www.anaconda.com. 
